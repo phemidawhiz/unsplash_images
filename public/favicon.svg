@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46 57">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d30069;
+        font-size: 50px;
+        font-family: NanumBrush, Nanum Brush Script;
+      }
+    </style>
+  </defs>
+  <text id="FB" class="cls-1" transform="translate(1 46)"><tspan x="0" y="0">FB</tspan></text>
+</svg>
